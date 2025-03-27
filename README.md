@@ -166,3 +166,6 @@ return 0;
 ## Output:
 ![Screenshot 2025-03-18 233616](https://github.com/user-attachments/assets/223f33ec-3317-4f05-8635-8456861293aa)
 
+## RESULT:
+The program is executed successfully.
+
